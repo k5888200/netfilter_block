@@ -1,0 +1,2 @@
+1,test.gilgil.net
+2,www.naver.com
